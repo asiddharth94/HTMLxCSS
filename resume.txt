@@ -1,0 +1,47 @@
+Abhishek Siddharth
+Bangalore, India
+Phone: +91 9880833816
+E-mail: abhisheksiddharth95@gmail.com
+
+Frontend developer with strong fundamental knowledge and 4+ years of experience in designing & developing high-performance, scalable and responsive frontend systems. Extensive experience in testing, debugging and writing high quality code, currently employed with Intuit.
+Work Experience
+
+Intuit( Bangalore, India)
+Sept, 2021- Current
+
+Working on the ‘Global’ launch of QuickBooks Advanced
+Ownership of multiple features of the product to ensure global-launch readiness 
+Developing the Front-End and User Interface of QuickBooks Advanced using Typescript, React, and Redux
+Writing unit tests ensuring maximum code coverage, using Cypress
+Experience with micro-frontend architecture 
+Working on Localisation of the product to support multiple languages based on different countries
+Built country-wide Opex Dashboards tracking various system performance metrics (e.g latency, FCIs etc)
+Worked on integrating Feedback Surveys to capture our customer’s responses, in order to be extra supportive for newly launched countries
+
+
+SAP Labs India (Bangalore, India)
+Apr, 2020 – Sept, 2021
+Designed, developed and maintained responsive SAPUI5 framework’s controls
+Identified new features and upgraded SAPUI5 framework’s controls, keeping it up to date with the latest requirements
+Worked closely with product managers, UX designers and backend engineers to implement frontend solutions
+Achieved maximum code coverage by writing unit test cases
+Followed SDLC best practices, including coding standards and code reviews
+
+Mindtree Ltd (Bangalore, India)
+Feb, 2018 – Mar, 2020
+Built a real-time tool to automate the payroll system
+Developed large-scale, consumer-facing and mobile-responsive web applications using frontend frameworks like Angular & React
+Migrated an entire application from jQuery to Angular ensuring high code quality
+Led a team of 4 people for the requirement of designing and developing customer’s policy report
+Experienced working with REST APIs
+Adhered to the timelines and ensured all the steps are taken care in the entire process
+
+Key Industry Skills
+[ HTML5, CSS, Javascript, Typescript ] , [ React, Angular, SAPUI5 ] ,
+[ Redux ] , [ REST, GraphQL ] , [ Cypress, Jasmine, Qunit ] , [ MySQL ] ,
+[ GIT ] , [ Github ] , [ AWS Certified Cloud Practitioner ] , [ NPM, Webpack ]
+
+Education
+B.E in Information Science & Engineering ([2013-2017])
+Nitte Meenakshi Institute of Technology, Bangalore – (GPA: 7.86/10)
+
